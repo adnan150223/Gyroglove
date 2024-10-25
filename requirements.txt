@@ -4,3 +4,4 @@ langchain_google_genai
 cassio
 pyttsx3
 python-dotenv
+langchain-community

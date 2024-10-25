@@ -1,5 +1,6 @@
-streamlit>=1.0.0
-langchain-google-genai>=0.5.1
-cassio>=0.1.2
-pyttsx3>=2.90
-python-dotenv>=0.19.2
+streamlit
+langchain
+langchain_google_genai
+cassio
+pyttsx3
+python-dotenv
